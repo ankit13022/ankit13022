@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing**.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ankit13022/Ankit-Portfolio)**
 
