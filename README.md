@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ankit13022/Ankit-Portfolio)**
 
-- 📫 You may contact me thru **ankitdj13112002@gmail.com**
+- 📫 You may contact me through **ankitdj13112002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
